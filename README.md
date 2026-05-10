@@ -46,7 +46,7 @@ The game utilizes a camera feed to map your hand coordinates onto the game board
     ```
 3.  Run the application:
     ```bash
-    python main.py
+    python carrom.py
     ```
 
 ---
